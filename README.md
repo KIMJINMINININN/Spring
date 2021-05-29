@@ -1,2 +1,2 @@
 # spring
- spring stduy
+ spring study
